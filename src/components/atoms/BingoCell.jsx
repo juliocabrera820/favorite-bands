@@ -14,9 +14,9 @@ export function BingoCell({ content, isFree, isMarked, onClick }) {
       `}
     >
       {isFree ? (
-        <div className="transform rotate-45 bg-red-600 text-white px-8 py-1 absolute text-sm font-bold uppercase">{content}</div>
+        <div className="transform xs:transform xs:-rotate-45 md:rotate-45 bg-red-600 text-white px-8 py-1 text-sm font-bold uppercase">{content}</div>
       ) : (
-        <span className="xs:text-[8px] xs:transform xs:rotate-45 text-white font-bold text-xs sm:text-sm uppercase">{content}</span>
+        <span className="xs:text-[8px] xs:transform xs:-rotate-45 md:rotate-0 text-white font-bold text-xs sm:text-sm uppercase">{content}</span>
       )}
     </button>
   )

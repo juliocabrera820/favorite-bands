@@ -9,7 +9,7 @@ const ROW_ONE = [
 const ROW_TWO = [
   { name: "Jinjer", isFree: false },
   { name: "Leprous", isFree: false },
-  { name: "Neo obliviscaris", isFree: false },
+  { name: "Bury Tomorrow", isFree: false },
   { name: "Ihsahn", isFree: false },
   { name: "Gojira", isFree: false },
 ];
@@ -18,7 +18,7 @@ const ROW_THREE = [
   { name: "Carach Angren", isFree: false },
   { name: "Trivium", isFree: false },
   { name: "Free", isFree: true },
-  { name: "Blessthefall", isFree: false },
+  { name: "Crystal Lake", isFree: false },
   { name: "Hypocrisy", isFree: false },
 ];
 

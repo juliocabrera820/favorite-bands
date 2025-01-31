@@ -1,4 +1,4 @@
-import { BingoGrid } from "../organisms/BingoGrid"
+import { BingoGrid } from "./BingoGrid"
 
 export function BingoCard() {
   return (

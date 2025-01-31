@@ -1,5 +1,5 @@
 import PropTypes from "prop-types"
-import { BingoCell } from "../atoms/BingoCell"
+import { BingoCell } from "./BingoCell"
 
 export function BingoRow({ cells, rowIndex, markedCells, onCellClick }) {
   return (

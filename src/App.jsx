@@ -1,4 +1,4 @@
-import { BingoCard } from "./components/templates/BingoCard"
+import { BingoCard } from "./components/BingoCard"
 
 function App() {
   return (

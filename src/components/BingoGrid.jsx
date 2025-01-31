@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
-import { BingoRow } from "../molecules/BingoRow"
-import { BANDS } from "../../constants/bands"
+import { BingoRow } from "./BingoRow"
+import { BANDS } from "../constants/bands"
 
 const bingoItems = BANDS;
 

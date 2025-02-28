@@ -1,6 +1,6 @@
 const ROW_ONE = [
   { name: "LANDMVRKS", isFree: false },
-  { name: "Jinjer", isFree: false },
+  { name: "Epica", isFree: false },
   { name: "Parkway Drive", isFree: false },
   { name: "A Day to Remember", isFree: false },
   { name: "Killswitch Engage", isFree: false },
